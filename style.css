@@ -1,0 +1,31 @@
+body{
+background-image:url("doodle.jfif");
+background-size: contain;
+}
+.note{
+color:black;
+font-size: 25px;
+background-color:aqua;
+font-weight: bolder;
+}
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow:5px 5px 5px grey;
+}
+.copy_right{
+position: fixed;
+color: aliceblue;
+bottom: 0;
+width: 100%;
+background-color: grey;
+line-height: 3;
+text-align: center;
+}
+h3{
+background-color: yellow;
+}
+h2{
+background-color: orange;
+}
